@@ -1,4 +1,4 @@
-### Hi there, I'm Zhiming Zhang(张智明) 👋
+### Hi there, I'm Zhiming Zhang (张智明) 👋
 
 ---
 
