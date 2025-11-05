@@ -29,10 +29,10 @@ Here are some of the technologies I'm familiar with:
 <p align="center">
   <!-- Change the theme for your stats card: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Splendidday205&show_icons=true&theme=tokyonight" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ZhimingZhang-io&show_icons=true&theme=tokyonight" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Splendidday205&layout=compact&theme=tokyonight" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhimingZhang-io&layout=compact&theme=tokyonight" />
   </a>
 </p>
 
